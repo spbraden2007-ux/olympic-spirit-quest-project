@@ -19,7 +19,7 @@ An interactive 3D metaverse experience that takes players on a virtual tour of K
 </td>
 <td>
 
-**IOC President Award** — Youth Category  
+**IOC President Award** —  
 2024 Gangwon Winter Youth Olympic Games  
 Alibaba Cloud Hackathon
 

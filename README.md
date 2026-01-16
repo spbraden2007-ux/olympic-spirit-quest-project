@@ -236,5 +236,5 @@ This project was created for the 2024 Gangwon Winter Youth Olympic Games Alibaba
 University of Waterloo, Computer Science  
 Korea Presidential Science Scholarship Recipient
 
-[![GitHub](https://img.shields.io/badge/GitHub-seohyunpark-181717?style=flat&logo=github)](https://github.com/seohyunpark)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seohyunpark-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/seohyunpark)
+[![GitHub](https://img.shields.io/badge/GitHub-seohyunpark-181717?style=flat&logo=github)](https://github.com/spbraden2007-ux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seohyunpark-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sp-park)
